@@ -64,6 +64,10 @@
   http://www.arduino.cc/en/Tutorial/Button
 */
 
+//This is a game that you need to click the button or to get closer to the ultrasonic sensor when the number 8 is on the LCD
+//Every time you win, the numbers will move faster and it will be harder
+//If you win, the green light is turned on, otherwise red one.
+
 // constants won't change. They're used here to set pin numbers:
 const int buttonPin = 7;     // the number of the pushbutton pin
 
